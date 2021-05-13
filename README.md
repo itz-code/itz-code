@@ -1,6 +1,5 @@
 hello, i'm samiksha (pronounced sah-mik-shah) - she/her/hers
-- i'm a student who's passionate about computer science
-- i enjoy participating in girls who code & kode with klossy events
+<br> i'm a student who's passionate about stem, computer science, and gender inequality
 
 <!---
 itz-prog/itz-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
