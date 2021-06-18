@@ -1,2 +1,2 @@
-hello, i'm samiksha (pronounced "sah-mik-shah")! - she/her/hers
-<br> i'm a student who's passionate about stem, computer science, and gender inequality
+Hello, I'm Samiksha (pronounced "sah-mik-shah")! - she/her/hers
+<br> I'm a student who's passionate about STEM, computer science, and gender inequality :)
