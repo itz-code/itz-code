@@ -6,7 +6,7 @@
 - JavaScript
 - Figma/UX Design
 
-#### 💬 Chat With Me About:
+#### 💬 Talk With Me About:
 - Tech and social/environmental justice
 - Hackathons and other opportunities
 ---
