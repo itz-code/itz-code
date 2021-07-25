@@ -1,6 +1,6 @@
 # Hi There! 👋🏽
 ## 👩🏽‍💻 My name's Samiksha, and I'm a student passionate about using STEM and computer science to positively impact the world! 
-#### 🧠 I'm Familiar With:
+#### 💻 I'm Familiar With:
 - HTML
 - CSS
 - JavaScript
@@ -10,5 +10,5 @@
 - Tech and social/environmental justice
 - Hackathons and other opportunities
 ---
-### 🔗 Connect With Me!
+### 🌐 Connect With Me!
 [LinkedIn](https://www.linkedin.com/in/samikshalingan/) ∙ [Instagram](https://instagram.com/samiksh.a) ∙ [Email](mailto:slingan01@gmail.com)
