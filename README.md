@@ -11,7 +11,7 @@
 - Tech and social/environmental justice
 - Hackathons and other opportunities\
 
-<details open>
+<details>
 <summary>📊 My Github Stats</summary>
 <br>
 [![Samiksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slingann&show_icons=true&include_all_commits=true&border_radius=20px&theme=graywhite)
