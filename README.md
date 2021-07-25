@@ -11,5 +11,5 @@
 - Tech and social/environmental justice
 - Hackathons and other opportunities
 ---
-### 🔗 Connect With Me On
-[LinkedIn](https://www.linkedin.com/in/samikshalingan/) ∙ [Instagram](https://instagram.com/samiksh.a)
+### 🔗 Connect With Me!
+[LinkedIn](https://www.linkedin.com/in/samikshalingan/) ∙ [Instagram](https://instagram.com/samiksh.a) ∙ [Email](mailto:slingan01@gmail.com)
