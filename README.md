@@ -10,4 +10,4 @@
 #### Chat With Me About:
 - Women in STEM
 - AI, ML, and new tech
-- Coding programs, workshops, and other opportunities
+- Hackathons and other coding opportunities
