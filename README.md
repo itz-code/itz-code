@@ -7,7 +7,6 @@
 - JavaScript
 - Figma/UX Design
 
-#### Chat With Me About:
+#### 💬 Chat With Me About:
 - Women in STEM
-- AI, ML, and new tech
 - Hackathons and other coding opportunities
