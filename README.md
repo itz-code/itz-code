@@ -10,7 +10,7 @@
 #### 💬 Talk With Me About:
 - Tech and social/environmental justice
 - Hackathons and other opportunities\
-
+---
 <details>
 <summary>📊 My Github Stats</summary>
 <br>
