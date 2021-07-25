@@ -11,7 +11,7 @@
 - Tech and social/environmental justice
 - Hackathons and other opportunities\
 
-[![Samiksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=slingann&border_radius:200px)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slingann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slingann&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slingann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### 🌐 Connect With Me!
 [LinkedIn](https://www.linkedin.com/in/samikshalingan/) ∙ [Instagram](https://instagram.com/samiksh.a) ∙ [Email](mailto:slingan01@gmail.com)
