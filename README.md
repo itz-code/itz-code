@@ -8,5 +8,5 @@
 - Figma/UX Design
 
 #### 💬 Chat With Me About:
-- Women in STEM
+- Tech and social/environmental justice
 - Hackathons and other coding opportunities
