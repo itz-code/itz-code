@@ -1,8 +1,13 @@
 # Hi There! 👋🏽
 ### 👩🏽‍💻 My name's Samiksha, and I'm a student passionate about using STEM and computer science to positively impact the world! 
 ---
-#### 💻 I'm most familiar with:
+#### 🧠 I'm Familiar With:
 - HTML
 - CSS
 - JavaScript
 - Figma/UX Design
+
+#### Chat With Me About:
+- Women in STEM
+- AI, ML, and new tech
+- Coding programs, workshops, and other opportunities
