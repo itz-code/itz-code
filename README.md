@@ -13,9 +13,8 @@
 
 <details>
 <summary>📊 My Github Stats</summary>
-<br>
- <img src = "https://github-readme-stats.vercel.app/api?username=slingann&show_icons=true&include_all_commits=true&border_radius=20px&theme=graywhite">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slingann&layout=compact&border_radius=20px&theme=graywhite&custom_title=Samiksha's+Top+Languages)](https://github.com/anuraghazra/github-readme-stats)
+<img src = "https://github-readme-stats.vercel.app/api?username=slingann&show_icons=true&include_all_commits=true&border_radius=20px&theme=graywhite">
+<img src = https://github-readme-stats.vercel.app/api/top-langs/?username=slingann&layout=compact&border_radius=20px&theme=graywhite&custom_title=Samiksha's+Top+Languages'>
 </details>
 ---
 ### 🌐 Connect With Me!
