@@ -14,7 +14,7 @@
 <details>
 <summary>📊 My Github Stats</summary>
 <br>
-<img align = "center" src = "https://github-readme-stats.vercel.app/api?username=slingann&show_icons=true&include_all_commits=true&border_radius=20px&theme=graywhite">
+<img align = "center" padding = "10px" src = "https://github-readme-stats.vercel.app/api?username=slingann&show_icons=true&include_all_commits=true&border_radius=20px&theme=graywhite">
 <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=slingann&layout=compact&border_radius=20px&theme=graywhite&custom_title=Samiksha's+Top+Languages">
 </details>
 
