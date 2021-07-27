@@ -22,3 +22,5 @@
 ---
 ### 🌐 Connect With Me!
 [LinkedIn](https://www.linkedin.com/in/samikshalingan/) ∙ [Instagram](https://instagram.com/samiksh.a) ∙ [Email](mailto:slingan01@gmail.com)
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="samikshalingan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/samikshalingan?trk=profile-badge">Samiksha L.</a></div>
