@@ -12,7 +12,7 @@
 - Hackathons and other opportunities
 ---
 <details>
-  <summary><b>📊 My Github Stats</b></summary>
+  <summary>## 📊 My Github Stats</summary>
   <br>
   <img src = "https://github-readme-stats.vercel.app/api?username=slingann&show_icons=true&include_all_commits=true&border_radius=20px&theme=graywhite">
   <br>
