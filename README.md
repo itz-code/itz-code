@@ -21,4 +21,4 @@
 
 ---
 ### 🌐 Connect With Me!
-[LinkedIn](https://www.linkedin.com/in/samikshalingan/) ∙ [Instagram](https://instagram.com/samiksh.a) ∙ [Email](mailto:slingan01@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/samikshalingan/)  ∙  [Instagram](https://instagram.com/samiksh.a)  ∙  [Email](mailto:slingan01@gmail.com)
