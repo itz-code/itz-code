@@ -7,12 +7,12 @@
 - JavaScript
 - Figma/UX Design
 
-#### 💬 Talk With Me About:
+#### 💬 Talk with Me About:
 - Tech and social/environmental justice
 - Hackathons and other opportunities
 ---
 <details>
-  <summary><b>📊 My Github Stats</b></h5></summary>
+  <summary><h3>📊 My Github Stats</h3></summary>
   <br>
   <img src = "https://github-readme-stats.vercel.app/api?username=slingann&show_icons=true&include_all_commits=true&border_radius=20px&theme=graywhite">
   <br>
@@ -20,5 +20,5 @@
 </details>
 
 ---
-### 🌐 Connect With Me!
+### 🌐 Connect with Me!
 [LinkedIn](https://www.linkedin.com/in/samikshalingan/)  ∙  [Instagram](https://instagram.com/samiksh.a)  ∙  [Email](mailto:slingan01@gmail.com)
