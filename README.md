@@ -5,7 +5,7 @@
 - HTML
 - CSS
 - JavaScript
-- Figma/UX Design
+- Figma/UI Design
 
 #### 💬 Talk with Me About:
 - Tech and social/environmental justice
