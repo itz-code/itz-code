@@ -2,10 +2,7 @@
 ## 👩🏽‍💻 My name's Samiksha, and I'm a student passionate about using STEM and computer science to solve real-world issues!
 
 #### 💻 I'm Familiar With:
-- HTML
-- CSS
-- JavaScript
-- Figma/UI Design
+`HTML` `CSS` `JavaScript`
 
 #### 💬 Talk with Me About:
 - Tech and social/environmental justice
@@ -14,7 +11,7 @@
 <details>
   <summary><b>📊 My Github Stats</b></summary>
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api?username=slingann&show_icons=true&include_all_commits=true&border_radius=20px&theme=graywhite&width=150px">
+  <img src = "https://github-readme-stats.vercel.app/api?username=slingann&show_icons=true&include_all_commits=true&border_radius=20px&theme=graywhite">
   <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=slingann&layout=compact&border_radius=20px&theme=graywhite&custom_title=Samiksha's+Top+Languages">
 </details>
