@@ -1,10 +1,10 @@
 # Hello! 👋🏽
 ## 👩🏽‍💻 My name's Samiksha, and I'm a student passionate about using STEM and computer science to solve real-world issues!
 
-#### 💻 I'm Familiar With:
+#### 💻 I'm Familiar With
 `HTML` `CSS` `JavaScript`
 
-#### 💬 Talk with Me About:
+#### 💬 Talk with Me About
 - Tech and social/environmental justice
 - Hackathons and other opportunities
 ---
