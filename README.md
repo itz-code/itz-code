@@ -18,4 +18,4 @@
 
 ---
 ### 🌐 Connect with Me!
-[Email](mailto:slingan01@gmail.com)  ∙  [Carrd Site](https://samiksh-a.carrd.co)  ∙  [LinkedIn](https://www.linkedin.com/in/samikshalingan/)  ∙  [Devpost](https://devpost.com/slingan)
+[Email](mailto:slingan01@gmail.com)  ∙  [LinkedIn](https://www.linkedin.com/in/samikshalingan/)  ∙  [Devpost](https://devpost.com/slingan)
