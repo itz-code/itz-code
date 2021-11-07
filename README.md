@@ -1,6 +1,4 @@
 # Hello! 👋🏽
-## 👩🏽‍💻 My name's Samiksha, and I'm a student passionate about using STEM and computer science to solve real-world issues!
-
 #### 💻 I'm Familiar With
 `HTML` `CSS` `JavaScript`
 
