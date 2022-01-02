@@ -1,4 +1,4 @@
-# Hello! 👋🏽
+# Hello 👋🏽, I'm Samiksha! 🦦
 #### 💻 I'm Familiar With
 `HTML` `CSS` `JavaScript`
 
