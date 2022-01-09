@@ -1,7 +1,7 @@
 # Hello 👋🏽, I'm Samiksha! 🦦
 
 <details>
-  <summary><h3>📊 My Github Stats</h3></summary>
+  <summary><h4>📊 My Github Stats</h4></summary>
   <br>
   <img src = "https://github-readme-stats.vercel.app/api?username=slingann&show_icons=true&include_all_commits=true&border_radius=20px&theme=graywhite">
   <br>
