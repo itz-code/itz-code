@@ -1,10 +1,4 @@
 # Hello 👋🏽, I'm Samiksha! 🦦
-#### 💻 I'm Familiar With
-`HTML` `CSS` `JavaScript`
-
-#### 💬 Talk with Me About
-- Tech and social/environmental justice
-- Hackathons and other opportunities
 ---
 <details>
   <summary><b>📊 My Github Stats</b></summary>
