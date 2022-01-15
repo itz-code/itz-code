@@ -8,7 +8,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=slingann&layout=compact&border_radius=20px&theme=graywhite&custom_title=Samiksha's+Top+Languages">
 </details>
 
-
+<img src = "spotify-ss.jpg">
 
 ---
 ### 🌐 Connect with Me!
