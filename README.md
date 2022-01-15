@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
   
   # Hello 👋🏽, I'm Samiksha! 🦦
 
@@ -16,3 +16,4 @@
 
   [<img src="spotify-ss.jpg" width="250">](https://open.spotify.com/playlist/1OxnUgSfjKRJ4VzWTrGrUk?si=16525aab4f9d49a6)
   
+</div>
