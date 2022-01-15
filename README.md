@@ -8,8 +8,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=slingann&layout=compact&border_radius=20px&theme=graywhite&custom_title=Samiksha's+Top+Languages">
 </details>
 
-"https://open.spotify.com/embed/playlist/1OxnUgSfjKRJ4VzWTrGrUk?utm_source=generator&theme=0
-
 ---
 ### 🌐 Connect with Me!
 [Email](mailto:slingan01@gmail.com)  ∙  [LinkedIn](https://www.linkedin.com/in/samikshalingan/)  ∙  [Devpost](https://devpost.com/slingan)
