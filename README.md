@@ -9,6 +9,7 @@
 </details>
 
 <iframe src="https://open.spotify.com/embed/playlist/1OxnUgSfjKRJ4VzWTrGrUk?utm_source=generator&theme=0" width="60%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 ---
 ### 🌐 Connect with Me!
 [Email](mailto:slingan01@gmail.com)  ∙  [LinkedIn](https://www.linkedin.com/in/samikshalingan/)  ∙  [Devpost](https://devpost.com/slingan)
