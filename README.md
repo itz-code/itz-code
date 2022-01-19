@@ -7,7 +7,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=slingann&layout=compact&border_radius=20px&theme=graywhite&custom_title=Samiksha's+Top+Languages" width="400">
 
   ---
-  ## 🌐 Connect with Me!
+  ### 🌐 Connect with Me!
   [Email](mailto:slingan01@gmail.com)  ∙  [LinkedIn](https://www.linkedin.com/in/samikshalingan/)  ∙  [Devpost](https://devpost.com/slingan)
 
   [<img src="spotify-ss.jpg" width="250">](https://open.spotify.com/playlist/1OxnUgSfjKRJ4VzWTrGrUk?si=16525aab4f9d49a6)
