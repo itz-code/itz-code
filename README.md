@@ -1,8 +1,8 @@
 <div align="center">
-  
   **Hi 👋🏽, I'm Samiksha! 🦦**
+</div>
   
-  <img src="New Note.png">
+  <img align="right" src="New Note.png" height="150">
   
   I’m a current high school sophomore with interests in software development and data science 👩🏾‍💻, as well as passions for community outreach and volunteer work 🫂. I also like to play tennis 🎾 and drink Baja Blast 🥤.
 
@@ -13,8 +13,6 @@
   ---
   ### 🌐 Connect with Me!
   [Email](mailto:slingan01@gmail.com)  ∙  [LinkedIn](https://www.linkedin.com/in/samikshalingan/)  ∙  [Devpost](https://devpost.com/slingan)  ∙  [Spotify](https://open.spotify.com/user/yklmyaju9eg0x4xlwhdyojbr1?si=7694ae43bbf6463f)
-  
-</div>
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yklmyaju9eg0x4xlwhdyojbr1&width=500)
