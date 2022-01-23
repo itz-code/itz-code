@@ -12,8 +12,7 @@
  <div align="center">
   🌐 Connect with Me!</b>
  
-  [Email](mailto:slingan01@gmail.com)  ∙  [LinkedIn](https://www.linkedin.com/in/samikshalingan/)  ∙  [Devpost](https://devpost.com/slingan)  ∙  [Spotify](https://open.spotify.com/user/yklmyaju9eg0x4xlwhdyojbr1?si=7694ae43bbf6463f)
-
+  <a href="mailto:slingan01@gmail.com">Email</a>  ∙  <a href="https://linkedin.com/in/samikshalingan">LinkedIn</a>  ∙  <a href="https://devpost.com/slingan">Devpost</a>
  </div>
 
  <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yklmyaju9eg0x4xlwhdyojbr1&width=500) -->
