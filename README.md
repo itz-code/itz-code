@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
   
   # Hi 👋🏽, I'm Samiksha! 🦦
 
