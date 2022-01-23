@@ -10,9 +10,8 @@
 
   ---
  <div align="center">
-  🌐 Connect with Me!</b>
- <br>
-  <div align="left-center"><a href="mailto:slingan01@gmail.com">Email</a>  ∙  <a href="https://linkedin.com/in/samikshalingan">LinkedIn</a>  ∙  <a href="https://devpost.com/slingan">Devpost</a></div>
+  <b>🌐 Connect with Me!</b>
+  <div><a href="mailto:slingan01@gmail.com">Email</a>  ∙  <a href="https://linkedin.com/in/samikshalingan">LinkedIn</a>  ∙  <a href="https://devpost.com/slingan">Devpost</a></div>
  </div>
 
  <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yklmyaju9eg0x4xlwhdyojbr1&width=500) -->
