@@ -20,10 +20,8 @@
 
  <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yklmyaju9eg0x4xlwhdyojbr1&width=500) -->
  
-<div align="center">
-   <img src="https://spotify-recently-played-readme.vercel.app/api?user=yklmyaju9eg0x4xlwhdyojbr1&width=500" align="left">
-</div>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yklmyaju9eg0x4xlwhdyojbr1&width=500" align="left">
 
-  <img src = "https://github-readme-stats.vercel.app/api?username=slingann&show_icons=true&include_all_commits=true&border_radius=20px&theme=graywhite" width="400" align="right">
+  <img src = "https://github-readme-stats.vercel.app/api?username=slingann&show_icons=true&include_all_commits=true&border_radius=20px&theme=graywhite" width="500" align="right">
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=slingann&layout=compact&border_radius=20px&theme=graywhite&custom_title=Samiksha's+Top+Languages" width="400" align="right">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=slingann&layout=compact&border_radius=20px&theme=graywhite&custom_title=Samiksha's+Top+Languages" width="500" align="right">
