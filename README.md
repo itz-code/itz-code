@@ -1,5 +1,5 @@
 <div>
-  **Hi 👋🏽, I'm Samiksha! 🦦**
+ <b>Hi 👋🏽, I'm Samiksha! 🦦</b>
 </div>
   
   <img align="right" src="New Note.png" height="150">
