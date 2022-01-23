@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
   
   **Hi 👋🏽, I'm Samiksha! 🦦**
 
@@ -13,4 +13,4 @@
 </div>
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yklmyaju9eg0x4xlwhdyojbr1)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yklmyaju9eg0x4xlwhdyojbr1&width={500})
