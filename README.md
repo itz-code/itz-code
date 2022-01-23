@@ -2,7 +2,7 @@
   
   **Hi 👋🏽, I'm Samiksha! 🦦**
   
-  <img
+  <img src="New Note.png">
   
   I’m a current high school sophomore with interests in software development and data science 👩🏾‍💻, as well as passions for community outreach and volunteer work 🫂. I also like to play tennis 🎾 and drink Baja Blast 🥤.
 
