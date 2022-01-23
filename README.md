@@ -29,3 +29,5 @@
   <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=slingann&layout=compact&border_radius=20px&theme=graywhite&custom_title=Samiksha's+Top+Languages" width="450" align="right">
 </div>
+
+<!-- inspired by lucy's readme! https://github.com/lhao03/lhao03 -->
