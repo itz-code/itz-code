@@ -1,6 +1,6 @@
 <div align="right">
   
-  # Hi 👋🏽, I'm Samiksha! 🦦
+  **Hi 👋🏽, I'm Samiksha! 🦦**
 
   <img src = "https://github-readme-stats.vercel.app/api?username=slingann&show_icons=true&include_all_commits=true&border_radius=20px&theme=graywhite" width="400">
   <br>
