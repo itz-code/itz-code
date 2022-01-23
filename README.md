@@ -12,7 +12,7 @@
  <div align="left">
  <div align="center">
   🌐 Connect with Me!</b>
- 
+ <br>
   <a href="mailto:slingan01@gmail.com">Email</a>  ∙  <a href="https://linkedin.com/in/samikshalingan">LinkedIn</a>  ∙  <a href="https://devpost.com/slingan">Devpost</a>
  </div>
  </div>
