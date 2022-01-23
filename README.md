@@ -9,7 +9,7 @@
 
 
   ---
-<div align="left">
+<div>
  <div align="center">
   🌐 Connect with Me!</b>
   
