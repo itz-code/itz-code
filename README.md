@@ -20,7 +20,7 @@
 
  <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yklmyaju9eg0x4xlwhdyojbr1&width=500) -->
   
-<div align="left">
+<div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=yklmyaju9eg0x4xlwhdyojbr1&width=500" align="left">
 </div>
   
