@@ -1,9 +1,9 @@
 <div>
  <b>Hi 👋🏽, I'm Samiksha! 🦦</b>
 </div>
-  
-  <img align="right" src="New Note.png" height="150">
-  <img align="right" src="giphy.gif" height="150">
+
+  <img align="right" src="giphy.gif" height="300">
+  <img align="right" src="New Note.png" height="200">
   
   I’m a current high school sophomore with interests in software development and data science 👩🏾‍💻, as well as passions for community outreach and volunteer work 🫂. I also like to play tennis 🎾 and drink Baja Blast 🥤.
 
