@@ -10,7 +10,8 @@
 
   ---
  <div align="center">
-  <div><a href="mailto:slingan01@gmail.com">Email</a>  ∙  <a href="https://linkedin.com/in/samikshalingan">LinkedIn</a>  ∙  <a href="https://devpost.com/slingan">Devpost</a></div>
+  <b><div><a href="mailto:slingan01@gmail.com">Email</a>  ∙  <a href="https://linkedin.com/in/samikshalingan">LinkedIn</a>  ∙  <a href="https://devpost.com/slingan">Devpost</a></b>
+ </div>
  </div>
 <br>
  <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yklmyaju9eg0x4xlwhdyojbr1&width=500) -->
