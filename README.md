@@ -44,5 +44,5 @@
 <br>
 <br>
 <div align="center">
- Inspired by Lucy's README: <a href="https://github.com/lhao03/lhao03">Check it Out</a>
+ Inspired by <a href="https://github.com/lhao03/lhao03">Lucy's README</a>
 </div>
