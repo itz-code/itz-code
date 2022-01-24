@@ -1,5 +1,5 @@
-<div>
- <b>Hi 👋🏽, I'm Samiksha! 🦦</b>
+<div align="center">
+ <h2>Hi 👋🏽, I'm Samiksha! 🦦</h2>
 </div>
 
   <img align="right" src="giphy.gif" height="150">
