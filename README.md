@@ -31,23 +31,3 @@ I’m a rising high school junior with interests in data science 👩🏾‍💻
   <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=slingann&layout=compact&border_radius=20px&theme=graywhite&custom_title=Samiksha's+Top+Languages" width="400" align="right">
 </div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<div align="center">
- Inspired by <a href="https://github.com/lhao03/lhao03">Lucy's README</a>
-</div>
