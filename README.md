@@ -1,5 +1,5 @@
-<div align="center">
- <h1>Hi 👋🏽, I'm Samiksha! 🦦</h1>
+<div align="left">
+ <h1>Hi there, I'm Samiksha 🦦</h1>
 </div>
 
 <img id="gif" align="right" src="giphy.gif" height="150">
@@ -26,8 +26,6 @@
   <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=slingann&layout=compact&border_radius=20px&theme=graywhite&custom_title=Samiksha's+Top+Languages" width="400" align="right">
 </div>
-
-<!-- inspired by lucy's readme! https://github.com/lhao03/lhao03 -->
 
 <br>
 <br>
