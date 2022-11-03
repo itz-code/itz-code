@@ -6,7 +6,7 @@
 <!--  <img id="gif" align="right" src="howl.gif" width="300"> -->
 <img align="right" src="New Note.png" height="150">
   
-I’m a rising high school junior with interests in data science 👩🏾‍💻, artificial intelligence 🤖, and effective design 💡, as well as passions for community outreach and volunteer work 🫂.
+I’m a high school junior with interests in data science 👩🏾‍💻, artificial intelligence 🤖, and effective design 💡, as well as passions for community outreach and volunteer work 🫂.
 
 ### Ask me about:
 * my experience with web development as a Girls Who Code SIP participant
