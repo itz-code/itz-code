@@ -15,11 +15,11 @@ I’m a high school junior with interests in data science 👩🏾‍💻, artif
 
 
   ---
- <div align="center">
+<!--  <div align="center">
   <b><div><a href="https://linkedin.com/in/samikshalingan">LinkedIn</a>  ∙  <a href="https://devpost.com/slingan">Devpost</a></b>
  </div>
  </div>
-<br>
+<br> -->
  <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yklmyaju9eg0x4xlwhdyojbr1&width=500) -->
   
 <div align="right">
