@@ -10,8 +10,7 @@ I’m a high school junior with interests in data science 👩🏾‍💻, artif
 
 ### Ask me about:
 * my experience with web development as a Girls Who Code SIP participant
-* my newfound interest in artificial intelligence, sparked by AI4ALL @ UC Berkeley
-* my experience as a logistics and social media officer for Hydra Hacks, a hackathon for marginalized gender identities in CS
+* my interests in AI, bioinformatics, and computational chemistry, sparked by AI4ALL @ UC Berkeley
 
 
   ---
