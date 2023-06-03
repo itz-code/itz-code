@@ -6,9 +6,10 @@
 <!--  <img id="gif" align="right" src="howl.gif" width="300"> -->
 <img align="right" src="New Note.png" height="150">
   
-I’m a high school junior with interests in data science 👩🏾‍💻, artificial intelligence 🤖, and effective design 💡, as well as passions for community outreach and volunteer work 🫂.
+I’m a high school student with interests in data science 👩🏾‍💻, AI 🤖, chemistry 🧪, and effective design 💡, as well as passions for community outreach and volunteer work 🫂.
 
 ### Ask me about:
+* my work as a research intern in Summer 2023 at Berkeley Lab as part of the Experiences in Research Program
 * my experience with web development as a Girls Who Code SIP participant
 * my newfound interest in artificial intelligence, sparked by AI4ALL @ UC Berkeley
 * my experience as a logistics and social media officer for Hydra Hacks, a hackathon for marginalized gender identities in CS
