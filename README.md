@@ -15,7 +15,7 @@ I’m a high school student with interests in data science 👩🏾‍💻, AI �
 * my experience as a logistics and social media officer for Hydra Hacks, a hackathon for marginalized gender identities in CS
 
 
-  ---
+ <!-- --- -->
 <!--  <div align="center">
   <b><div><a href="https://linkedin.com/in/samikshalingan">LinkedIn</a>  ∙  <a href="https://devpost.com/slingan">Devpost</a></b>
  </div>
