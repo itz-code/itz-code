@@ -15,15 +15,15 @@ I’m a high school student with interests in data science 👩🏾‍💻, AI �
 * my experience as a logistics and social media officer for Hydra Hacks, a hackathon for marginalized gender identities in CS
 
 
- <!-- --- -->
-<!--  <div align="center">
+ --- 
+<!-- <div align="center">
   <b><div><a href="https://linkedin.com/in/samikshalingan">LinkedIn</a>  ∙  <a href="https://devpost.com/slingan">Devpost</a></b>
  </div>
  </div>
 <br> -->
  <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yklmyaju9eg0x4xlwhdyojbr1&width=500) -->
   
-<!-- <div align="right">
+ <div align="right">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=yklmyaju9eg0x4xlwhdyojbr1&width=400" align="left">
 </div>
   
@@ -31,4 +31,4 @@ I’m a high school student with interests in data science 👩🏾‍💻, AI �
   <img src = "https://github-readme-stats.vercel.app/api?username=slingann&show_icons=true&include_all_commits=true&border_radius=20px&theme=graywhite" width="400" align="right">
   <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=slingann&layout=compact&border_radius=20px&theme=graywhite&custom_title=Samiksha's+Top+Languages" width="400" align="right">
-</div> -->
+</div> 
