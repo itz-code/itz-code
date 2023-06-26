@@ -2,8 +2,8 @@
  <h1>Hi there, I'm Samiksha 🦦</h1>
 </div>
 
-<img id="gif" align="right" src="giphy.gif" height="150">
-<!--  <img id="gif" align="right" src="howl.gif" width="300"> -->
+<!-- <img id="gif" align="right" src="giphy.gif" height="150"> -->
+<img id="gif" align="right" src="howl.gif" width="300">
 <img align="right" src="New Note.png" height="150">
   
 I’m a high school student with interests in data science 👩🏾‍💻, AI 🤖, chemistry 🧪, and effective design 💡, as well as passions for community outreach and volunteer work 🫂.
