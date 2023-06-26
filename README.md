@@ -7,7 +7,7 @@
 <!-- <img align="right" src="New Note.png" height="150"> -->
 
 
-I’m a high school student with interests in data science 👩🏾‍💻, AI 🤖, chemistry 🧪, and effective design 💡, as well as passions for community outreach and volunteer work 🫂.
+I’m a high school student with interests in data science 👩🏾‍💻, AI 🤖, chemistry 🧪, and effective design 💡, as well as a passion for community outreach 🫂.
 
 ### Ask me about:
 * my work as a research intern in Summer 2023 at Berkeley Lab as part of the Experiences in Research Program
