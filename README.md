@@ -11,7 +11,7 @@ I’m a high school student with interests in data science 👩🏾‍💻, AI �
 
 ### Ask me about:
 * my work as a research intern @ Berkeley Lab 
-* my experience with web development and crybersecurity as a Girls Who Code SIP participant
+* my experience with web development and cybersecurity as a Girls Who Code SIP participant
 * my interest in artificial intelligence, sparked by AI4ALL @ UC Berkeley
 * my experience as a logistics and social media officer for Hydra Hacks, a hackathon for marginalized gender identities in CS
 
