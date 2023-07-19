@@ -1,20 +1,22 @@
+<!--
 <div align="left">
  <h1>Hi there, I'm Samiksha 🦦</h1>
 </div>
+-->
 
 <!-- <img id="gif" align="right" src="giphy.gif" height="150"> -->
  <img id="gif" align="right" src="tumblr_a01f485120c14a173d77a8b7cf8be2d5_7c1acd39_540.gif" width="300">
 <!-- <img align="right" src="New Note.png" height="150"> -->
 
 
-I’m a high school student with interests in data science 👩🏾‍💻, AI 🤖, chemistry 🧪, and effective design 💡, as well as a passion for community outreach 🫂.
+<!-- I’m a high school student with interests in data science 👩🏾‍💻, AI 🤖, chemistry 🧪, and effective design 💡, as well as a passion for community outreach 🫂.
 
 ### Ask me about:
 * my work as a research intern @ Berkeley Lab 
 * my experience with web development and cybersecurity as a Girls Who Code summer programs scholar
 * my interest in artificial intelligence, sparked by AI4ALL @ UC Berkeley
 * my experience as a logistics and social media officer for Hydra Hacks, a hackathon for marginalized gender identities in CS
-
+-->
 
  --- 
 <!-- <div align="center">
