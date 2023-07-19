@@ -12,7 +12,7 @@
 
 ### High school student from the Bay Area interested in data science, machine learning, and chemistry.
 
-#### Especially interested in computational chemistry and biology, drug development and delivery, etc. 
+### Especially interested in computational chemistry and biology, drug development and delivery, etc. 
 <!-- I’m a high school student with interests in data science 👩🏾‍💻, AI 🤖, chemistry 🧪, and effective design 💡, as well as a passion for community outreach 🫂.
 
 ### Ask me about:
