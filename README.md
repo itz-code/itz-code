@@ -11,7 +11,7 @@
 <!-- <img align="right" src="New Note.png" height="150"> -->
 
 ### High school student from the Bay Area interested in data science, machine learning, and chemistry.
-### Currently interning at Berkeley Lab.
+#### Currently interning at Berkeley Lab.
 <!-- I’m a high school student with interests in data science 👩🏾‍💻, AI 🤖, chemistry 🧪, and effective design 💡, as well as a passion for community outreach 🫂.
 
 ### Ask me about:
