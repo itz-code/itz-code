@@ -4,7 +4,7 @@
 </div>
 -->
 
-## High school student from the Bay Area interested in data science, machine learning, and chemistry. Currently interning at Berkeley Lab.
+### High school student from the Bay Area interested in data science, machine learning, and chemistry. Currently interning at Berkeley Lab.
 
 <!-- <img id="gif" align="right" src="giphy.gif" height="150"> -->
  <img id="gif" align="right" src="tumblr_a01f485120c14a173d77a8b7cf8be2d5_7c1acd39_540.gif" width="300">
