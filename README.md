@@ -12,9 +12,7 @@
 
 # Hi, I'm Samiksha.
 
-### High school student from the Bay Area interested in data science, machine learning, and chemistry.
-
-### Especially curious about computational chemistry and biology, drug development and delivery, etc. 
+### I'm a high school student from the Bay Area interested in data science, machine learning, and chemistry, and I'm especially curious about computational chemistry and biology, drug development and delivery, etc. 
 <!-- I’m a high school student with interests in data science 👩🏾‍💻, AI 🤖, chemistry 🧪, and effective design 💡, as well as a passion for community outreach 🫂.
 
 ### Ask me about:
